@@ -1,0 +1,8 @@
+src/data
+new_env
+report.xlsx
+src/reports
+src/models
+src/utils/__pycache__
+src/input
+src/output
